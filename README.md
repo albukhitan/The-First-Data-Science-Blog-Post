@@ -10,7 +10,18 @@ This is my first data science blog post. It is the first assigment in the Udacit
 
 ## Installation Steps <a name="installation"></a>
 
-The code requires only libraries included in the Anaconda distribution for python version 3.* 
+The code requires the following packages with python version 3.*   :
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- nltk
+- string
+- re
+- worldcloud
+- PIL
+- sklearn
 
 First step, need to download Stackoverflow’s 2020 Annual Developer Survey data which could be [here](https://insights.stackoverflow.com/survey). </br>. Then, put hte data into the data sub-folder.
 
